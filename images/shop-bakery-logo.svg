@@ -1,0 +1,34 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" rx="80" fill="#FAF6EF"/>
+
+  <!-- Bakery icon -->
+  <path d="M300 150C220 150 170 220 170 310C170 390 225 445 300 445C375 445 430 390 430 310C430 220 380 150 300 150Z"
+        stroke="#8B5E3C" stroke-width="12"/>
+
+  <!-- Bread cuts -->
+  <path d="M250 230C270 250 330 250 350 230"
+        stroke="#8B5E3C" stroke-width="10" stroke-linecap="round"/>
+  <path d="M230 290C255 310 345 310 370 290"
+        stroke="#8B5E3C" stroke-width="10" stroke-linecap="round"/>
+  <path d="M235 350C265 370 335 370 365 350"
+        stroke="#8B5E3C" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Text -->
+  <text x="300" y="510"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        letter-spacing="4"
+        fill="#3B2A20">
+    SHOP
+  </text>
+
+  <text x="300" y="555"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        letter-spacing="4"
+        fill="#8B5E3C">
+    BAKERY
+  </text>
+</svg>
